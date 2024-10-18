@@ -1,6 +1,6 @@
 {
   "name": "css-frameworks-ca",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Test",
   "main": "index.js",
   "scripts": {
@@ -35,10 +35,10 @@
       "prettier --write"
     ],
     "*.html": [
-	    "prettier --write"
-	  ],
-	  "*.scss": [
-	    "prettier --write"
-	  ]
+      "prettier --write"
+    ],
+    "*.scss": [
+      "prettier --write"
+    ]
   }
 }
